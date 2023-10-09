@@ -65,6 +65,19 @@ It is not an error, but since its not a directory, there are no other directorie
 1. Running command with *no* arguement
 The starting directory will be lecture1. In this case we get an error, since cat is for viewing or creating a file. Running it with no arguement means either could create a file with no name or open a random file, which just doesn't make sense.
 
+![Image](cat_1.png)
+
+2. Path to a directory as an argument
+The starting directory is **home** again. We input """cat lecture1""", the program outputs lecture1 is a directory. This is an error due to the fact that cat can view or create a file. Therefore when we give it a path to a directory it doesn't know what to do, therefore gives us this message.
+
+![image](cat_2.png)
+
+
+3. Path to a file as an arguement
+The current directory is **home** again. we input the en-us.txt file's path. The output is whats in the file. Therefore cat returned what was in the file. This is not an error rather it helped us view this specific file.
+
+![image](cat_3.png)
+
 
 
 
