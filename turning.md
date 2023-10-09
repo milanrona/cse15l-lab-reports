@@ -6,7 +6,7 @@
 1. Running command with *no* arguement
 we are currently in the **home** directory.
 Having *no* arguements meant that there was no change or output from the terminal.
-We are currently still in the **home** directory as seen in the picture below.
+We are currently still in the **home** directory as seen in the picture below. It is not an error.
 
 ![Image](cd_no_arg.png)
 
@@ -28,7 +28,7 @@ This is not an error rather a **correct** way to change directory.
 3. Share an example of using the command with a path to a **file** as an arguement.
 We are starting from the home directory again.
 This time we are going to the *file en-us.txt*
-We can an error in this instance, due to the fact that we are going to a **File** rather than a **Directory**.
+We get an error in this instance, due to the fact that we are going to a **File** rather than a **Directory**.
 Change directory can only switch to directories and in this case we are trying to change to a txt file.
 
 ![Image](cd_tofile.png)
