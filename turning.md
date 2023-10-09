@@ -48,7 +48,7 @@ If we are currently in lecture1 directory, if we run ls it lists all the **files
 2. Path to a directory as an argument
 We are currently in the **home** directory. When we run ls with a path to a directory it lists file's and other directories under the directory the path goes to. It doesnt cause an error, but rather a good way to see what is in directories other than what is the current.
 
-![Image]
+![Image](LS_dir_path.png)
 
 
 
