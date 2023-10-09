@@ -55,7 +55,17 @@ The working directory was and even after running the code remains **home**.
 The output is the path to the file, so it doesn't  list anything rather returns the path we input.
 It is not an error, but since its not a directory, there are no other directories or files to return.
 
-![Image](LS_last.png)
+![Image](real_last.png)
+
+
+---
+
+# Cat *(view or creat a file)*
+
+1. Running command with *no* arguement
+The starting directory will be lecture1. In this case we get an error, since cat is for viewing or creating a file. Running it with no arguement means either could create a file with no name or open a random file, which just doesn't make sense.
+
+
 
 
 
