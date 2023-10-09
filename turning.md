@@ -42,6 +42,8 @@ Change directory can only switch to directories and in this case we are trying t
 
 If we are currently in lecture1 directory, if we run ls it lists all the **files and other directories** that are **directly under** the *current* directory in the unix file hierarchy. In the listing it highlights directories in blue.
 
+![Image](LS1.png)
+
 
 
 
