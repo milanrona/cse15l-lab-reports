@@ -40,9 +40,15 @@ Change directory can only switch to directories and in this case we are trying t
 
 1. Running command with *no* arguement
 
-If we are currently in lecture1 directory, if we run ls it lists all the **files and other directories** that are **directly under** the *current* directory in the unix file hierarchy. In the listing it highlights directories in blue.
+If we are currently in lecture1 directory, if we run ls it lists all the **files and other directories** that are **directly under** the *current* directory in the unix file hierarchy. In the listing it highlights directories in blue. This is not an error
+* doesnt change the directory you are currently in
 
 ![Image](LS1.png)
+
+2. Path to a directory as an argument
+We are currently in the **home** directory. When we run ls with a path to a directory it lists file's and other directories under the directory the path goes to. It doesnt cause an error, but rather a good way to see what is in directories other than what is the current.
+
+![Image]
 
 
 
