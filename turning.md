@@ -25,3 +25,10 @@ This is not an error rather a **correct** way to change directory.
 ![Image](cd_filepath.png)
 
 
+3. Share an example of using the command with a path to a **file** as an arguement.
+We are starting from the home directory again.
+This time we are going to the *file en-us.txt*
+
+
+
+
