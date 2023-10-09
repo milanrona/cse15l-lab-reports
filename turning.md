@@ -3,11 +3,18 @@
 ---
 # Change Directory
 
-1. running command with *no* arguement
+1. Running command with *no* arguement
 we are currently in the **home** directory.
 Having *no* arguements meant that there was no change or output from the terminal.
 We are currently still in the **home** directory as seen in the picture below.
 
 ![Image](cd_no_arg.png)
+
+2. Running command with a *path to a directory* as an arguement
+We are currently in the **home** directory.
+We imput this:
+''' cd /home/lecture1/messages/'''
+we see that the present working directory *(pwd)* is messages rather than home
+*view picture below*
 
 
