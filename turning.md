@@ -55,7 +55,7 @@ The working directory was and even after running the code remains **home**.
 The output is the path to the file, so it doesn't  list anything rather returns the path we input.
 It is not an error, but since its not a directory, there are no other directories or files to return.
 
-![Image]()
+![Image](LS_last.png)
 
 
 
