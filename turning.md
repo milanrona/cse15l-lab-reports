@@ -13,8 +13,15 @@ We are currently still in the **home** directory as seen in the picture below.
 2. Running command with a *path to a directory* as an arguement
 We are currently in the **home** directory.
 We imput this:
-''' cd /home/lecture1/messages/'''
-we see that the present working directory *(pwd)* is messages rather than home
+
+''' 
+cd /home/lecture1/messages/
+'''
+we see that the present working directory *(pwd)* is messages rather than home.
+This is not an error rather a **correct** way to change directory.
+
 *view picture below*
+
+![Image](cd_filepath.png)
 
 
