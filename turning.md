@@ -5,14 +5,14 @@
 
 1) Running command with *no* argument
 we are currently in the **home** directory.
-Having *no* arguements meant that the terminal returned the present working directory's absolute path.
-We are currently still in the **home** directory as seen in the picture below. It is not an error.
+Having *no* arguements meant that the terminal stayed in the home directory.
+We are currently still in the **home** directory as seen in the picture below.
 
 ![Image](cd_no_arg.png)
 
 With a different example if we were to currently be present in the `lecture1` directory 
-The *output* of the `pwd` call is
-`/home/lecture1` which is the absolute path.
+The *output* of the `cd` call is
+The terminal returns to the `/home` directory. Therefore this is not an error just a quick way to return to the `/home` directory.
 
 
 
