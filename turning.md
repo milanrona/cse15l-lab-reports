@@ -15,7 +15,7 @@ We are currently in the **home** directory.
 We imput this:
 
  
-'cd'/'home'/'lecture1'/'messages'/
+`cd/home/lecture1/messages/`
 
 we see that the present working directory *(pwd)* is messages rather than home.
 This is not an error rather a **correct** way to change directory.
@@ -27,7 +27,7 @@ This is not an error rather a **correct** way to change directory.
 
 3) Share an example of using the command with a path to a **file** as an arguement.
 We are starting from the home directory again.
-This time we are going to the *file en-us.txt*
+This time we are going to the `file en-us.txt`
 We get an error in this instance, due to the fact that we are going to a **File** rather than a **Directory**.
 Change directory can only switch to directories and in this case we are trying to change to a txt file.
 
@@ -74,7 +74,7 @@ The starting directory is **home** again. We input 'cat lecture1', the program o
 
 
 3) Path to a file as an arguement
-The current directory is **home** again. we input the 'en-us.txt' file's path. The output is whats in the file. Therefore cat returned what was in the file. This is not an error rather it helped us view this specific file.
+The current directory is **home** again. we input the `en-us.txt` file's path. The output is whats in the file. Therefore cat returned what was in the file. This is not an error rather it helped us view this specific file.
 
 ![image](cat_3.png)
 
