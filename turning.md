@@ -4,9 +4,9 @@
 # Change Directory
 
 1) Running command with *no* argument
-we are currently in the **home** directory.
+we are currently in the `/home` directory.
 Having *no* arguements meant that the terminal stayed in the home directory.
-We are currently still in the **home** directory as seen in the picture below.
+We are currently still in the `/home` directory as seen in the picture below.
 
 ![Image](cd_no_arg.png)
 
