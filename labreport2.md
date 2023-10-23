@@ -36,7 +36,7 @@
 ---
 # Part3
 
-I learned a lot of new things about servers and remote access. My knowledge on the topic previously was close to nothing. I found it very intresting setting up web servers and using methods through them. The NumberServer was very intresting, I saw some real life aspect of coding. Running webservers and running methods from the quary and how you can control that through code was also new for me. 
+I learned a lot of new things about servers and remote access. My knowledge on the topic previously was close to nothing. I found it very intresting setting up web servers and using methods through them. The NumberServer was very intresting, I saw some real life aspect of coding. Running webservers and running methods from the quary and how you can control that through code was also new and gave me a far deeper understanding of server than i had before. 
 
 
 
