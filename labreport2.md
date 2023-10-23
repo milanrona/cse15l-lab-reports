@@ -3,6 +3,13 @@
 ---
 # Part 1
 
+
+- Write a web server called StringServer
+
+![image_code](realTry.png)
+
+
+
 ---
 # part 2
 
