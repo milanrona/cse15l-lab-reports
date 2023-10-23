@@ -8,8 +8,17 @@
 
 ![image_code](RealTry.png)
 
+- **example 1**
+I inputed `"how are you"`. The handle request method of my code is called. The string method of `.contains()` is called and adds it to the return string. Counter is incramented before adding them therefore `counter = 1` after the call is executed.
 
-*The code is probably wrong somewhere, since when ran it, i was unable to start a server. It said the server started but it didn't give me a link for access*
+![image](Web_1st_try.png)
+
+- **example 2**
+I inputed `"whoisthis"`. The handle request method of my code is called. The counter is incramented therfore `counter = 2`. The string is added to the `return string` with a new line `\n` at the end.
+
+![image_2](Web_2nd_try.png)
+
+if no arguement is passed to `/add-message?s=` than error is reported due to the `split()`.
 
 ---
 # part 2
