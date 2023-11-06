@@ -14,7 +14,7 @@ I inputed `"how are you"`. The handle request method of my code is called. The f
 ![image](Web_1st_try.png)
 
 - **example 2**
-I inputed `"whoisthis"`. The handle request method of my code is called. The counter is incramented therfore `counter = 2`. The string is added to the `return string` with a new line `\n` at the end and counter at the begining.
+I inputed `"whoisthis"`. The handle request method of my code is called, where the seconf if statment is executed. The counter is incramented therfore `counter = 2`. The string is added to the `return string` with a new line `\n` at the end and counter at the begining. Therefore return string equals "1. how are you \n 2. whoisthis \n"
 
 ![image_2](Web_2nd_try.png)
 
