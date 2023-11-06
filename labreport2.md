@@ -27,11 +27,17 @@ if no arguement is passed to `/add-message?s=` than error is reported due to the
 
 ![image_private](private_public_key.png)
 
+- Updated Private key
+![image_public2](private_key_real.png)
+
 
 
 - **The path to the public key for your SSH key for logging into ieng6**
 
 ![image_public](public_key.png)
+
+-Here is an upedated version 
+![image_public2](Public_key_real.png)
 
 
 
