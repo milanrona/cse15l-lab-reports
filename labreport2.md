@@ -9,12 +9,12 @@
 ![image_code](RealTry.png)
 
 - **example 1**
-I inputed `"how are you"`. The handle request method of my code is called. The string method of `.contains()` is called and adds it to the return string. Counter is incramented before adding them therefore `counter = 1` after the call is executed.
+I inputed `"how are you"`. The handle request method of my code is called. The first if statment returns false. The string method of `.contains()` is called and adds it to the return string. Counter is incramented before adding them therefore `counter = 1` after the call is executed and thats what added first to the return string.
 
 ![image](Web_1st_try.png)
 
 - **example 2**
-I inputed `"whoisthis"`. The handle request method of my code is called. The counter is incramented therfore `counter = 2`. The string is added to the `return string` with a new line `\n` at the end.
+I inputed `"whoisthis"`. The handle request method of my code is called. The counter is incramented therfore `counter = 2`. The string is added to the `return string` with a new line `\n` at the end and counter at the begining.
 
 ![image_2](Web_2nd_try.png)
 
