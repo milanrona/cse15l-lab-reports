@@ -202,6 +202,8 @@ Longabaugh remarked that NIH is increasingly trying to`
 
 Explanation: Option `-C [num]` shows the lines before and after, the line with the matching input. In this case it is showing 2 lines that are trailing and after the lines that include `surgery`. This options can give you context for the given word you are looking for. 
 input, currently in the `government/Env_Prot_Agen` directory: grep -rC 2 weather
+
+
 Example 2:
 
 input, currently in the `government/Env_Prot_Agen` directory: `grep -rC 2 weather`
