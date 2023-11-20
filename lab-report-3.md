@@ -224,4 +224,39 @@ Explanation: We are recursivly looking through the current directory and looking
 
 
 
+citation: 
+Used `man grep` command in order to get information. 
+Asked Chat gtp: `grep -C option example`
+recieved: `The -C option in the grep command is used to display a specified number of lines of context around the matched lines. This can be helpful to provide more context and make the output more informative. Here's an example:`
+
+`bash
+Copy code
+grep -C 2 "pattern" filename
+This command will search for the specified "pattern" in the given "filename" and display two lines of context (both before and after) around each matching line.`
+
+`For instance, consider a file named example.txt with the following content:`
+
+`csharp
+Copy code`
+`1. This is line 1.
+2. This is line 2 with the pattern.
+3. This is line 3.
+4. This is line 4 with the pattern.
+5. This is line 5.
+If you run the command:`
+
+`bash
+Copy code
+grep -C 2 "pattern" example.txt
+The output will be:`
+
+`csharp
+Copy code`
+`2. This is line 2 with the pattern.
+3. This is line 3.
+4. This is line 4 with the pattern.
+In this example, for each line that contains the pattern, two lines of context are displayed both before and after the matching line. Adjust the number after -C to change the amount of context displayed.`
+
+- Used it to see how to use `grep -C` since i had no idea how to use the number part -> `-C[num], --context[=num]`
+
 
