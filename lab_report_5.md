@@ -3,6 +3,36 @@
 
 ## Part 1
 
+Question:
+
+![Image1](abcd.png)
+
+I get this output when i run my solution.ssh. It is supposed to be correct, but with my input it should say that 1 is correct.
+
+Response:
+
+"question why only at 1 input it works and at others it doesn't"
+
+
+Student:
+Changes > to >>
+
+- End
+
+
+- `week9`
+      - `week9/Sum.java`
+      - `week9/solution.ssh`
+      -  `test-files`
+          - `test1.txt`
+          - `test1 a.txt`
+
+
+Sum.java: 
+![Image](sum_file_week9.png)
+
+![Image](solution_file_week9.png)
+
 
 
 
