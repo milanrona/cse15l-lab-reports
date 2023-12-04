@@ -10,7 +10,7 @@ Question:
 I get this output when i run my solution.ssh. It is supposed to be correct, but with my input it should say that 1 is correct.
 
 Response:
-
+c 
 "question why only at 1 input it works and at others it doesn't"
 
 
