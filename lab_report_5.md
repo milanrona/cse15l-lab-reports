@@ -29,7 +29,7 @@ Changes > to >>
 
 
 Sum.java: 
-![Image](sum_file_week9.png)
+![Image](sum_file_week 9.png)
 
 ![Image](solution_file_week9.png)
 
