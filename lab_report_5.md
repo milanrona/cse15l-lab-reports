@@ -16,7 +16,7 @@ Try creating more combination of 2 files in `test-files`, with the incorrect `te
 
 Student:
 
-![Image1](return_of_the_good.png)
+![Image1](Return_of_the_good.png)
 
 It seems like the output.txt is being overriden each time the answer is correct, rather than appending it overwrites it. it doesn't fail when there is only 1 test case or when there is only 1 correct and multiple or 1 incorrect test case.
 
