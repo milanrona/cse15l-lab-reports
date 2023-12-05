@@ -49,6 +49,14 @@ It seems like the output.txt is being overriden each time the answer is correct,
 
 
 
+Command line to get bug:
+- Since the way to get the buggy output was to play around with the `test-files` directory. To get incorrect output all i had to do was put in 2 or more correct tests, that triggered the failer, due to overwriting the `ouput.txt` file rather than appending.
+
+Way to fix: 
+- you need to change from `echo "$result" > overall.txt` to `echo "$result" >> overall.txt`. Since this way it will append rather than overwrite.
+
+
+
 
 ## Part 2
 
