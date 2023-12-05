@@ -11,6 +11,14 @@ So my question is regarding of `solution.sh`. I have created 3 tester files with
 
 
 TA: 
+Try creating more combination of 2 files in `test-files`, with the incorrect `test3.txt` in there or try putting in the `test files` 2 or 3 correct tests and look at the output.txt.
+
+
+Student:
+
+![Image1](return_of_the_good)
+
+It seems like the output.txt is being overriden each time the answer is correct, rather than appending it overwrites it. it doesn't fail when there is only 1 test case or when there is only 1 correct and multiple or 1 incorrect test case.
 
 - End
 
