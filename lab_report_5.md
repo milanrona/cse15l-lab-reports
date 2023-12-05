@@ -19,12 +19,12 @@ TA:
 - -`week9/Sum.java`
 - -`week9/solution.ssh`
 - - `test-files`
-- ----- `test1.txt`: "2"
-- ----- `test2.txt`: "4"
-- ----- `test3.txt`: "7"
-- ----- `test1.expected`: "3"
-- ----- `test2.expected`: "5"
-- ----- `test3.expected`: "4"
+  -  `test1.txt`: "2"
+  -   `test2.txt`: "4"
+  -   `test3.txt`: "7"
+  -   `test1.expected`: "3"
+  -   `test2.expected`: "5"
+  -   `test3.expected`: "4"
 
 
 Sum.java: 
