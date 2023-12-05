@@ -56,7 +56,8 @@ Way to fix:
 - you need to change from `echo "$result" > overall.txt` to `echo "$result" >> overall.txt`. Since this way it will append rather than overwrite.
 
 
-
+Citation:
+- for this question i changed a little bit the prompt and code of lecture 11. I created `Sum.java` but the `solution.ssh` is moslty from the class example.
 
 ## Part 2
 
