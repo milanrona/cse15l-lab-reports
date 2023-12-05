@@ -35,8 +35,13 @@ It seems like the output.txt is being overriden each time the answer is correct,
   -   `test-files/test3.expected`: "4"
 
 
-Sum.java: 
+`Sum.java`: 
+
+
 ![Image](sum_file_week9.png)
+
+`solution.sh`:
+
 
 ![Image](last_lab.png)
 
