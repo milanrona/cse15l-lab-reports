@@ -16,15 +16,15 @@ TA:
 
 
 - `week9`
-- -`week9/Sum.java`
-- -`week9/solution.ssh`
-- `test-files`
-  -  `test1.txt`: "2"
-  -   `test2.txt`: "4"
-  -   `test3.txt`: "7"
-  -   `test1.expected`: "3"
-  -   `test2.expected`: "5"
-  -   `test3.expected`: "4"
+- `week9/Sum.java`
+- `week9/solution.ssh`
+- `week9/test-files`
+  -  `test-files/test1.txt`: "2"
+  -   `test-files/test2.txt`: "4"
+  -   `test-files/test3.txt`: "7"
+  -   `test-files/test1.expected`: "3"
+  -   `test-files/test2.expected`: "5"
+  -   `test-files/test3.expected`: "4"
 
 
 Sum.java: 
