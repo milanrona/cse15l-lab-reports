@@ -18,7 +18,7 @@ TA:
 - `week9`
 - -`week9/Sum.java`
 - -`week9/solution.ssh`
-- - `test-files`
+- `test-files`
   -  `test1.txt`: "2"
   -   `test2.txt`: "4"
   -   `test3.txt`: "7"
