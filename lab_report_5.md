@@ -5,7 +5,7 @@
 
 Question:
 
-![Image1](question1.png)
+![Image1](question_1.png)
 
 So my question is regarding of `solution.sh`. I have created 3 tester files with `.txt` extensions, all of them containing one Integer. Than i created 3 files with `.expected` extension. Test 1 and 2 are correct in the sense that `test1.expected` and `test2.expected` contain an intiger 1 larger than thier counterparts. It produces correct output for 3 test out of the 4, but when all 3 tests are present in the `test-files` it only outputs that 1 of them are correct (when it supposed to be 2).
 
@@ -16,7 +16,7 @@ Try creating more combination of 2 files in `test-files`, with the incorrect `te
 
 Student:
 
-![Image1](return_of_the_good)
+![Image1](return_of_the_good.png)
 
 It seems like the output.txt is being overriden each time the answer is correct, rather than appending it overwrites it. it doesn't fail when there is only 1 test case or when there is only 1 correct and multiple or 1 incorrect test case.
 
