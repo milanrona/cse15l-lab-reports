@@ -5,17 +5,12 @@
 
 Question:
 
-![Image1](abcd.png)
+![Image1](question1.png)
 
-I get this output when i run my solution.ssh. It is supposed to be correct, but with my input it should say that 1 is correct.
-
-Response:
-c 
-"question why only at 1 input it works and at others it doesn't"
+So my question is regarding of `solution.sh`. I have created 3 tester files with `.txt` extensions, all of them containing one Integer. Than i created 3 files with `.expected` extension. Test 1 and 2 are correct in the sense that `test1.expected` and `test2.expected` contain an intiger 1 larger than thier counterparts. It produces correct output for 3 test out of the 4, but when all 3 tests are present in the `test-files` it only outputs that 1 of them are correct (when it supposed to be 2).
 
 
-Student:
-Changes > to >>
+TA: 
 
 - End
 
@@ -25,7 +20,17 @@ Changes > to >>
       - `week9/solution.ssh`
       -  `test-files`
           - `test1.txt`
-          - `test1 a.txt`
+              "2"
+          - `test2.txt`
+              "4"
+          - `test3.txt`
+              "7"
+          - `test1.expected`
+              "3"
+          - `test2.expected`
+              "5"
+          - `test3.expected`
+              "4"
 
 
 Sum.java: 
