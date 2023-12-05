@@ -36,9 +36,9 @@ It seems like the output.txt is being overriden each time the answer is correct,
 
 
 Sum.java: 
-![Image](sum_file_week 9.png)
+![Image](sum_file_week9.png)
 
-![Image](solution_file_week9.png)
+![Image](last_lab.png)
 
 
 
